@@ -20,11 +20,10 @@ author: JLE Solutions LLC
 ###############################################
 
 navbar-links:
-  About : "about"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: "about"
+  Services:
+  Contact: 
+    - "jlesolves@gmail.com"
 
 ################
 # --- Logo --- #
