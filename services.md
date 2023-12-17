@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Services
-subtitle: 
+subtitle: Serving Montgomery County, Maryland, and adjacent areas
 ---
 
-Residential and Commercial Drywall Repair and Painting
-Handy Man Services
+<h3>We offer:<br>
+- Interior Painting<br>
+- Exterior Painting<br>
+- Drywall Repair<br>
+- Pressure Washing</h3>
 
