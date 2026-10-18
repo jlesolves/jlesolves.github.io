@@ -7,8 +7,6 @@ subtitle: ---
 
 A clean, distraction-free markdown editor. Type on the left, see the rendered output on the right.
 
----
-
 ## Text Formatting
 
 Markdown makes it easy to format text. You can write in **bold**, *italic*, or ~~strikethrough~~. Combine them for ***bold italic*** text. Use `inline code` for technical terms.
