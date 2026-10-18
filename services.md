@@ -3,8 +3,6 @@ layout: page
 title: Services
 subtitle: ---
 
----
-
 # Welcome to JLE SOLUTIONS
 
 A clean, distraction-free markdown editor. Type on the left, see the rendered output on the right.
