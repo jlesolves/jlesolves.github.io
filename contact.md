@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 subtitle: 
-
+---
 ## Lists
 
 Unordered lists use dashes, asterisks, or plus signs:
@@ -11,7 +11,7 @@ Unordered lists use dashes, asterisks, or plus signs:
 - Export to Markdown, HTML, or PDF
 - Drag and drop files directly into the editor
 
-Ordered lists are numbered automatically
+Ordered lists are numbered automatically:
 
 1. Write your markdown
 2. Preview the rendered output
