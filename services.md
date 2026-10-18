@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Services
-subtitle: 
---
+subtitle: ---
 
 ## Welcome to JLE SOLUTIONS
 
 A clean, distraction-free markdown editor. Type on the left, see the rendered output on the right.
 
+---
 
 ## Text Formatting
 
@@ -64,9 +64,6 @@ Images use a similar syntax:
 Blockquotes can contain other markdown elements:
 
 > **Tip:** Use `Cmd+Shift+Z` to enter zen mode for distraction-free writing.
-
-
-
 
 ---
 
