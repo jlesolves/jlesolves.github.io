@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Services
-subtitle: ---
+subtitle: --
 
 ## Welcome to JLE SOLUTIONS
 
 A clean, distraction-free markdown editor. Type on the left, see the rendered output on the right.
 
---
+---
 
 ## Text Formatting
 
